@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Egot3
-- 📫 How to reach me: noobicklp@gmail.com
 - ⚡ Fun fact: me w/ markdow 🤝 infinity commits
 
 <!---
