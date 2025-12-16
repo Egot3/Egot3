@@ -6,6 +6,7 @@
     * want to learn: Typescript(quite the same as js), Golang
 ## upcoming projects:
     * conutryDataWebApp
+    * Wardrobe
     * EYA(ags widgets)
     * dfb_lms(lms)
 <!---
