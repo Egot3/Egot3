@@ -5,7 +5,6 @@
     * know: Javascript, python, cpp
     * want to learn: Typescript(quite the same as js), Golang
 ## upcoming projects:
-    * EYA(ags widgets)
     * dfb_lms(lms)
 <!---
 Egot3/Egot3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
