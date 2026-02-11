@@ -6,6 +6,9 @@
 * want to learn: Typescript(quite the same as js), Golang
 ## upcoming projects:
 * fathom(lms)
+* Orpheus(NewsGetter)
+* Text-To-IOS-clipboard(TTIC)
+* Image-To-IOS(ITI) 
     
 <!---
 Egot3/Egot3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
