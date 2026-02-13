@@ -2,8 +2,8 @@
 
 ## a bit about me:
 * who: a mediocre programmer 
-* know: Javascript, python, cpp
-* want to learn: Typescript(quite the same as js), Golang
+* know: Golang, Typescript, python, cpp
+* want to learn: Rust(planning to start after all projects below are completed)
 ## upcoming projects:
 * fathom(lms)
 * Orpheus(NewsGetter)
