@@ -1,4 +1,4 @@
-# Egot3 profile?
+# Egot3 profile
 
 ## a bit about me:
 * who: a mediocre programmer 
