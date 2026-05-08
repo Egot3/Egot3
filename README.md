@@ -6,7 +6,8 @@
 * want to learn: Rust(planning to start after all projects below are completed)
 ## upcoming projects:
 * fathom(lms)
-* Orphie(Now an MVP++)
+* supel
+* Hollow project group
 <br/>
 
 И пусть клавиши плавятся 
