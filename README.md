@@ -1,9 +1,5 @@
-# Egot3 profile
+*a mediocre programmer. Currently trying to stop being one*
 
-## a bit about me:
-### who:
-a mediocre programmer. Currently trying to stop being one
-### know:
 python and c++ as appetizers, typescripts as a consommé. __Golang__ as the main dish
 
 <br/>
