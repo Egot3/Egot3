@@ -1,13 +1,11 @@
 # Egot3 profile
 
 ## a bit about me:
-* who: a mediocre programmer 
-* know: Golang, Typescript, python, cpp
-* want to learn: Rust(planning to start after all projects below are completed)
-## upcoming projects:
-* fathom(lms)
-* supel
-* Hollow project group
+### who:
+a mediocre programmer. Currently trying to stop being one
+### know:
+python and c++ as appetizers, typescripts as a consommé. __Golang__ as the main dish
+
 <br/>
 
 И пусть клавиши плавятся 
